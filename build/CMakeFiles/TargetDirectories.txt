@@ -1,0 +1,6 @@
+C:/Users/Evan Fersadi/Documents/projects/http-server-c/build/CMakeFiles/server.dir
+C:/Users/Evan Fersadi/Documents/projects/http-server-c/build/CMakeFiles/client.dir
+C:/Users/Evan Fersadi/Documents/projects/http-server-c/build/CMakeFiles/test.dir
+C:/Users/Evan Fersadi/Documents/projects/http-server-c/build/CMakeFiles/tools.dir
+C:/Users/Evan Fersadi/Documents/projects/http-server-c/build/CMakeFiles/edit_cache.dir
+C:/Users/Evan Fersadi/Documents/projects/http-server-c/build/CMakeFiles/rebuild_cache.dir
